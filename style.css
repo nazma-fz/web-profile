@@ -1,0 +1,45 @@
+
+.color1 {
+  color:#dddd;
+}
+.bgcolor1 {
+    background-color:#dddd;
+  }
+
+.color2 {
+  color: #125D98;
+}
+
+.bgcolor2 {
+    color: #125D98;
+  }
+
+.font-family{
+    font-family:verdana;
+}
+
+.border-rd{
+  border-radius: 25px;
+}
+
+.bgsize{
+padding: 200px;
+margin-bottom: 20px;
+}
+
+.bgimage {
+  background-image: url(image/sentul.jpeg);
+}
+
+.opacity {
+  opacity: 0.5;
+}
+
+.margin-up{
+  margin-top: 20px;
+}
+
+.margin-left{
+  margin-left: 50px;
+}
+
